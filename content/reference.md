@@ -1,5 +1,5 @@
 ---
-title: Fiberplane template
+title: Fiberplane Template Reference
 theme: simple
 css: "theme/fiberplane.css"
 highlightTheme: nord
@@ -249,6 +249,8 @@ Like in this slide.
 
 ---
 
-Full documentation of the framework is available here: [revealjs.com](https://revealjs.com/)
+Documentation of the reveal-md project is available here: [webpro/reveal-md](https://github.com/webpro/reveal-md)
+
+Full documentation of the reveal.js is available here: [revealjs.com](https://revealjs.com/)
 
 👋

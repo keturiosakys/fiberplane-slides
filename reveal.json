@@ -4,7 +4,7 @@
     "margin": 0.1,
     "transition": "fade",
     "transitionSpeed": "fast",
-    "controlsBackArrows": "hidden",
+    "controls": false,
     "progress": true,
     "autoAnimateEasing": "ease-in-out",
     "autoAnimateDuration": 0.4

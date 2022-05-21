@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "scripts": {
-        "start": "reveal-md content/ -w",
+        "start": "reveal-md content/ -w --port 8888",
         "build": "rm -rf docs && reveal-md content/ --static docs --static-dirs=content/attachments"
     },
     "dependencies": {
