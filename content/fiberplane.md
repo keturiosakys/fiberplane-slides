@@ -1,4 +1,11 @@
-<p class="r-stretch"><img src="assets/logo-glow.png" alt=""></p>
+---
+title: Fiberplane template
+theme: simple
+css: "theme/fiberplane.css"
+highlightTheme: nord
+---
+
+<p class="r-stretch"><img src="attachments/logo-glow.png" alt=""></p>
 
 ## reveal.js <!-- .element: class="fragment fade-up"-->
 
@@ -43,20 +50,20 @@ There are four levels of headings defined in the template.
 you can add images to the slides using markdown
 
 ```md
-![Cat](assets/cat.jpg)
+![Cat](attachments/cat.jpg)
 ```
 
 or if the image is too large for the screen - use the following HTML snippet
 
 ```html
-<p class="r-stretch"><img src="assets/cat.jpg" alt="Cat" /></p>
+<p class="r-stretch"><img src="attachments/cat.jpg" alt="Cat" /></p>
 ```
 
 Not pretty but it works.
 
 ---
 
-<p class="r-stretch"><img src="/assets/cat.jpg" alt="Cat"></p>
+<p class="r-stretch"><img src="attachments/cat.jpg" alt="Cat"></p>
 
 ---
 

@@ -1,0 +1,11 @@
+{
+    "hash": true,
+    "center": true,
+    "margin": 0.1,
+    "transition": "fade",
+    "transitionSpeed": "fast",
+    "controlsBackArrows": "hidden",
+    "progress": true,
+    "autoAnimateEasing": "ease-in-out",
+    "autoAnimateDuration": 0.4
+}
