@@ -21,4 +21,6 @@ deck.initialize({
 
     // Display a presentation progress bar
     progress: true,
+    autoAnimateEasing: "ease-in-out",
+    autoAnimateDuration: 0.4,
 });

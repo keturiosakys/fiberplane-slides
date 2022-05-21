@@ -64,9 +64,13 @@ Not pretty but it works.
 
 ---
 
+<!-- .slide: data-auto-animate data-auto-animate-id="code" -->
+
 ## Code
 
-You can add code cells with three backticks and specify syntax highlighting (e.g.: <code>```jsonnet</code>).
+You can add code cells with three backticks and specify syntax highlighting:
+
+<code>```jsonnet</code>
 
 ```jsonnet[]
 function(
@@ -86,6 +90,8 @@ function(
 ```
 
 ---
+
+<!-- .slide: data-auto-animate data-auto-animate-id="code" -->
 
 Code can be further highlighted and animated by specifying line numbers in square brackets like this:
 
